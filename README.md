@@ -12,6 +12,7 @@
 5. [setTimeout、Promise、Async/Await 的区别](https://github.com/lovelmh13/One-question-a-day/issues/12)
 6. [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/lovelmh13/One-question-a-day/issues/13)
 7. [浏览器和Node 事件循环的区别](https://github.com/lovelmh13/One-question-a-day/issues/16)
+8. [下面代码中 a 在什么情况下会打印 1？（京东）](https://github.com/lovelmh13/One-question-a-day/issues/18)
 
 ## 编程
 1. [手写防抖](https://github.com/lovelmh13/One-question-a-day/issues/1)
