@@ -24,6 +24,7 @@ var a = 10;
 	console.log(a)
 })()
 ```
+10. [实现一个 sleep 函数，比如 sleep(1000) 意味着等待1000毫秒，可从 Promise、Generator、Async/Await 等角度实现](https://github.com/lovelmh13/One-question-a-day/issues/21)
 
 ## 编程
 1. [手写防抖](https://github.com/lovelmh13/One-question-a-day/issues/1)
