@@ -14,7 +14,6 @@
 7. [浏览器和Node 事件循环的区别](https://github.com/lovelmh13/One-question-a-day/issues/16)
 8. [下面代码中 a 在什么情况下会打印 1？（京东）](https://github.com/lovelmh13/One-question-a-day/issues/18)
 9. [下面代码输出什么](https://github.com/lovelmh13/One-question-a-day/issues/20)
-10. [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/lovelmh13/One-question-a-day/issues/23)
 ```js
 var a = 10;
 (function () {
@@ -26,6 +25,7 @@ var a = 10;
 })()
 ```
 10. [实现一个 sleep 函数，比如 sleep(1000) 意味着等待1000毫秒，可从 Promise、Generator、Async/Await 等角度实现](https://github.com/lovelmh13/One-question-a-day/issues/21)
+11. [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/lovelmh13/One-question-a-day/issues/23)
 
 ## 编程
 1. [手写防抖](https://github.com/lovelmh13/One-question-a-day/issues/1)
