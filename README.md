@@ -26,6 +26,15 @@ var a = 10;
 ```
 10. [实现一个 sleep 函数，比如 sleep(1000) 意味着等待1000毫秒，可从 Promise、Generator、Async/Await 等角度实现](https://github.com/lovelmh13/One-question-a-day/issues/21)
 11. [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/lovelmh13/One-question-a-day/issues/23)
+12. [输出以下代码的执行结果并解释为什么](https://github.com/lovelmh13/One-question-a-day/issues/24)
+```js
+var a = {n: 1};
+var b = a;
+a.x = a = {n: 2};
+
+console.log(a.x) 	
+console.log(b.x)
+```
 
 ## 编程
 1. [手写防抖](https://github.com/lovelmh13/One-question-a-day/issues/1)
