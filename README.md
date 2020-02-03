@@ -42,3 +42,4 @@ var a = 10;
 ## HTTP
 1. [谈谈你对 TCP 三次握手和四次挥手的理解](https://github.com/lovelmh13/One-question-a-day/issues/14)
 2. [cookie 和 token 都存放在 header 中，为什么不会劫持 token？](https://github.com/lovelmh13/One-question-a-day/issues/17)
+3. [请求时浏览器缓存 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？](https://github.com/lovelmh13/One-question-a-day/issues/22)
