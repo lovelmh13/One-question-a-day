@@ -46,6 +46,7 @@ console.log(b.x)
 5. [如果实现一个 new](https://github.com/lovelmh13/One-question-a-day/issues/9)
 6. [请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]，合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]](https://github.com/lovelmh13/One-question-a-day/issues/10)
 7. [简单改造下面的代码，使之分别打印 10 和 20](https://github.com/lovelmh13/One-question-a-day/issues/11)
+8. [老生常谈，手写promise](https://github.com/lovelmh13/One-question-a-day/issues/28)
 
 ## CSS
 1. [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/lovelmh13/One-question-a-day/issues/15)
