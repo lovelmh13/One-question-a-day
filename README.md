@@ -37,7 +37,7 @@ console.log(b.x)
 ```
 11. [为什么要用setTimeout代替setInterval？](https://github.com/lovelmh13/One-question-a-day/issues/26)
 12. [以下几段代码，分别打印什么（JS基础第4题的变种）](https://github.com/lovelmh13/One-question-a-day/issues/27)
-13. [闭包]()
+13. [词法作用域与闭包](https://github.com/lovelmh13/One-question-a-day/issues/29)
 
 ## 编程
 1. [手写防抖](https://github.com/lovelmh13/One-question-a-day/issues/1)
