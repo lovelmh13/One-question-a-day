@@ -49,6 +49,9 @@ console.log(b.x)
 7. [简单改造下面的代码，使之分别打印 10 和 20](https://github.com/lovelmh13/One-question-a-day/issues/11)
 8. [老生常谈，手写promise](https://github.com/lovelmh13/One-question-a-day/issues/28)
 
+## 算法
+1. [冒泡排序如何实现，时间复杂度是多少， 还可以如何改进？](https://github.com/lovelmh13/One-question-a-day/issues/30)
+
 ## CSS
 1. [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/lovelmh13/One-question-a-day/issues/15)
 2. [介绍下BFC及其应用](https://github.com/lovelmh13/One-question-a-day/issues/19)
