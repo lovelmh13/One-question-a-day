@@ -51,6 +51,7 @@ console.log(b.x)
 
 ## 算法
 1. [冒泡排序如何实现，时间复杂度是多少， 还可以如何改进？](https://github.com/lovelmh13/One-question-a-day/issues/30)
+2. [选择排序](https://github.com/lovelmh13/One-question-a-day/issues/31)
 
 ## CSS
 1. [介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/lovelmh13/One-question-a-day/issues/15)
