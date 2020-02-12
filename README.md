@@ -51,7 +51,7 @@ console.log(b.x)
 8. [老生常谈，手写promise](https://github.com/lovelmh13/One-question-a-day/issues/28)
 
 ## Vue
-1. [Vue的响应式原理](https://github.com/lovelmh13/One-question-a-day/issues/33)
+1. [Vue 2.x 的响应式原理](https://github.com/lovelmh13/One-question-a-day/issues/33)
 2. [Vue 2.x 响应数组的更新](https://github.com/lovelmh13/One-question-a-day/issues/34)
 
 ## 算法
