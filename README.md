@@ -50,6 +50,9 @@ console.log(b.x)
 7. [简单改造下面的代码，使之分别打印 10 和 20](https://github.com/lovelmh13/One-question-a-day/issues/11)
 8. [老生常谈，手写promise](https://github.com/lovelmh13/One-question-a-day/issues/28)
 
+## Vue
+1. [Vue的响应式原理](https://github.com/lovelmh13/One-question-a-day/issues/33)
+
 ## 算法
 1. [冒泡排序如何实现，时间复杂度是多少， 还可以如何改进？](https://github.com/lovelmh13/One-question-a-day/issues/30)
 2. [选择排序](https://github.com/lovelmh13/One-question-a-day/issues/31)
