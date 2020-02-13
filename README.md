@@ -53,6 +53,7 @@ console.log(b.x)
 ## Vue
 1. [Vue 2.x 的响应式原理](https://github.com/lovelmh13/One-question-a-day/issues/33)
 2. [Vue 2.x 响应数组的更新](https://github.com/lovelmh13/One-question-a-day/issues/34)
+3. [Vue 2.x watcher依赖收集](https://github.com/lovelmh13/One-question-a-day/issues/35)
 
 ## 算法
 1. [冒泡排序如何实现，时间复杂度是多少， 还可以如何改进？](https://github.com/lovelmh13/One-question-a-day/issues/30)
