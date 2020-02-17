@@ -56,6 +56,7 @@ console.log(b.x)
 3. [Vue 2.x 编译模板（不是虚拟DOM，为了后面的收集依赖，暂时写的）](https://github.com/lovelmh13/One-question-a-day/issues/35)
 4. [Vue 2.x 依赖收集](https://github.com/lovelmh13/One-question-a-day/issues/36)
 5. [写 React / Vue 项目时为什么要在列表组件中写 key，其作用是什么？](https://github.com/lovelmh13/One-question-a-day/issues/37)
+6. [聊聊 Vue 的双向数据绑定，Model 如何改变 View，View 又是如何改变 Model 的](https://github.com/lovelmh13/One-question-a-day/issues/38)
 
 ## 算法
 1. [冒泡排序如何实现，时间复杂度是多少， 还可以如何改进？](https://github.com/lovelmh13/One-question-a-day/issues/30)
