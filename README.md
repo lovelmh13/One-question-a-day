@@ -39,6 +39,7 @@ console.log(b.x)
 12. [以下几段代码，分别打印什么（JS基础第4题的变种）](https://github.com/lovelmh13/One-question-a-day/issues/27)
 13. [词法作用域与闭包](https://github.com/lovelmh13/One-question-a-day/issues/29)
 14. [for in和Object.keys遍历对象的区别](https://github.com/lovelmh13/One-question-a-day/issues/32)
+15. [隐式转换与[[ToPrimitive]](关联第8题)](https://github.com/lovelmh13/One-question-a-day/issues/40)
 
 ## 编程
 1. [手写防抖](https://github.com/lovelmh13/One-question-a-day/issues/1)
