@@ -30,15 +30,17 @@
 
 10. [实现一个 sleep 函数，比如 sleep(1000) 意味着等待1000毫秒，可从 Promise、Generator、Async/Await 等角度实现](https://github.com/lovelmh13/One-question-a-day/issues/21)
 11. [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/lovelmh13/One-question-a-day/issues/23)
-12. [输出以下代码的执行结果并解释为什么](https://github.com/lovelmh13/One-question-a-day/issues/24)
-```js
-var a = {n: 1};
-var b = a;
-a.x = a = {n: 2};
+12. 	<details>
+	  <summary><a href="https://github.com/lovelmh13/One-question-a-day/issues/24">下面代码输出什么</a></summary>
+	  <pre><code> 
+	      	var a = {n: 1};
+		var b = a;
+		a.x = a = {n: 2};
 
-console.log(a.x) 	
-console.log(b.x)
-```
+		console.log(a.x)
+		console.log(b.x)
+	  </code></pre>
+	</details>
 11. [为什么要用setTimeout代替setInterval？](https://github.com/lovelmh13/One-question-a-day/issues/26)
 12. [以下几段代码，分别打印什么（JS基础第4题的变种）](https://github.com/lovelmh13/One-question-a-day/issues/27)
 13. [词法作用域与闭包](https://github.com/lovelmh13/One-question-a-day/issues/29)
