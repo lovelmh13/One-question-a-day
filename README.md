@@ -31,7 +31,7 @@
 10. [实现一个 sleep 函数，比如 sleep(1000) 意味着等待1000毫秒，可从 Promise、Generator、Async/Await 等角度实现](https://github.com/lovelmh13/One-question-a-day/issues/21)
 11. [call 和 apply 的区别是什么，哪个性能更好一些](https://github.com/lovelmh13/One-question-a-day/issues/23)
 1. 	<details>
-	  <summary><a href="https://github.com/lovelmh13/One-question-a-day/issues/24">下面代码输出什么</a></summary>
+	  <summary><a href="https://github.com/lovelmh13/One-question-a-day/issues/24">输出以下代码的执行结果并解释为什么</a></summary>
 	  <pre><code> 
 	      	var a = {n: 1};
 		var b = a;
