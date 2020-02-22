@@ -13,20 +13,19 @@
 6. [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/lovelmh13/One-question-a-day/issues/13)
 7. [浏览器和Node 事件循环的区别](https://github.com/lovelmh13/One-question-a-day/issues/16)
 8. [下面代码中 a 在什么情况下会打印 1？（京东）](https://github.com/lovelmh13/One-question-a-day/issues/18)
-9. <details><summary>[下面代码输出什么](https://github.com/lovelmh13/One-question-a-day/issues/20)</summary>
-	<pre>
-	<code>
-	var a = 10;
-	(function () {
-		console.log(a)
-		a = 5;
-		console.log(window.a)
-		var a = 20;
-		console.log(a)
-	})()
-	<code>
-	<pre>
-</details>
+9. 	<details>
+	  <summary><a href="https://github.com/lovelmh13/One-question-a-day/issues/20">下面代码输出什么</a></summary>
+	  <pre><code> 
+	      	var a = 10;
+		 (function () {
+			console.log(a)
+			a = 5;
+			console.log(window.a)
+			var a = 20;
+			console.log(a)
+		 })()
+	  </code></pre>
+	</details>
 
 
 10. [实现一个 sleep 函数，比如 sleep(1000) 意味着等待1000毫秒，可从 Promise、Generator、Async/Await 等角度实现](https://github.com/lovelmh13/One-question-a-day/issues/21)
