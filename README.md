@@ -45,6 +45,7 @@
 15. [词法作用域与闭包](https://github.com/lovelmh13/One-question-a-day/issues/29)
 16. [for in和Object.keys遍历对象的区别](https://github.com/lovelmh13/One-question-a-day/issues/32)
 17. [隐式转换与[[ToPrimitive]](关联第8题)](https://github.com/lovelmh13/One-question-a-day/issues/40)
+18. [补充第11题，call apply和bind的区别](https://github.com/lovelmh13/One-question-a-day/issues/41)
 
 ## 编程
 1. [手写防抖](https://github.com/lovelmh13/One-question-a-day/issues/1)
