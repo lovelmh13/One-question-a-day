@@ -58,6 +58,7 @@
 7. [简单改造下面的代码，使之分别打印 10 和 20](https://github.com/lovelmh13/One-question-a-day/issues/11)
 8. [老生常谈，手写promise](https://github.com/lovelmh13/One-question-a-day/issues/28)
 9. [使用迭代的方式实现 flatten 函数](https://github.com/lovelmh13/One-question-a-day/issues/39)
+10. [实现 (5).add(3).minus(2) 功能（Number里的this和this.value）](https://github.com/lovelmh13/One-question-a-day/issues/42)
 
 ## Vue
 1. [Vue 2.x 的响应式原理](https://github.com/lovelmh13/One-question-a-day/issues/33)
