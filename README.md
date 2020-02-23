@@ -59,6 +59,7 @@
 8. [老生常谈，手写promise](https://github.com/lovelmh13/One-question-a-day/issues/28)
 9. [使用迭代的方式实现 flatten 函数](https://github.com/lovelmh13/One-question-a-day/issues/39)
 10. [实现 (5).add(3).minus(2) 功能（Number里的this和this.value）](https://github.com/lovelmh13/One-question-a-day/issues/42)
+11. [某公司 1 到 12 月份的销售额存在一个对象里面](https://github.com/lovelmh13/One-question-a-day/issues/44)
 
 ## Vue
 1. [Vue 2.x 的响应式原理](https://github.com/lovelmh13/One-question-a-day/issues/33)
