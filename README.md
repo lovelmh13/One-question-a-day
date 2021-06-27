@@ -56,7 +56,7 @@
 5. [如果实现一个 new](https://github.com/lovelmh13/One-question-a-day/issues/9)
 6. [请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]，合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]](https://github.com/lovelmh13/One-question-a-day/issues/10)
 7. [简单改造下面的代码，使之分别打印 10 和 20](https://github.com/lovelmh13/One-question-a-day/issues/11)
-8. [老生常谈，手写promise](https://github.com/lovelmh13/One-question-a-day/issues/28)
+8. [分步骤实现 A+ 规范的 Promise](https://github.com/lovelmh13/One-question-a-day/issues/55)
 9. [使用迭代的方式实现 flatten 函数](https://github.com/lovelmh13/One-question-a-day/issues/39)
 10. [实现 (5).add(3).minus(2) 功能（Number里的this和this.value）](https://github.com/lovelmh13/One-question-a-day/issues/42)
 11. [某公司 1 到 12 月份的销售额存在一个对象里面](https://github.com/lovelmh13/One-question-a-day/issues/44)
